@@ -1,0 +1,26 @@
+{
+  "name": "graphql-extract",
+  "version": "0.0.1",
+  "description": "Extract a subset of a GraphQL schema",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidVentura/graphql-extract.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidVentura/graphql-extract/issues"
+  },
+  "homepage": "https://github.com/DavidVentura/graphql-extract#readme",
+  "dependencies": {
+    "esbuild": "^0.21.1",
+    "graphql": "^16.8.1",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
+  }
+}
