@@ -1,8 +1,9 @@
 {
-
-  "include": ["*.ts"],
+  "include": [
+    "*.ts"
+  ],
   "compilerOptions": {
-    "target": "es6",
+    "target": "es2019",
     "module": "es6",
     "moduleResolution": "node",
     "esModuleInterop": true,
@@ -13,4 +14,3 @@
     "sourceMap": false
   }
 }
-
